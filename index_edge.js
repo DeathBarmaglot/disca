@@ -3,7 +3,7 @@
  */
 (function($, Edge, compId){
 //images folder
-var im='https://raw.githubusercontent.com/DeathBarmaglot/discavery/ny/images';
+var im='https://raw.githubusercontent.com/DeathBarmaglot/discavery/ny/images/';
 
 var fonts = {};
 var opts = {
