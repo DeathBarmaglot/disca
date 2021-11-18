@@ -30,7 +30,7 @@ var symbols = {
                 id: 'budda',
                 type: 'image',
                 rect: ['359', '91','300px','186px','auto', 'auto'],
-                fill: ["rgba(0,0,0,0)",'_/budda.jpg','0px','0px']
+                fill: ["rgba(0,0,0,0)",im+'budda.jpg','0px','0px']
             },
             {
                 id: 'main',
@@ -42,7 +42,7 @@ var symbols = {
                 id: 'paryzh',
                 type: 'image',
                 rect: ['0px', '-4px','300px','185px','auto', 'auto'],
-                fill: ["rgba(0,0,0,0)",'_/paryzh.jpg','0px','0px']
+                fill: ["rgba(0,0,0,0)",im+'paryzh.jpg','0px','0px']
             },
             {
                 id: 'sea',
